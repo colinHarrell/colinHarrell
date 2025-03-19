@@ -24,9 +24,10 @@
 - Mathematics and problem-solving challenges
 
 ## 📫 Connect with Me
-- **GitHub:** [github.com/colinHarrell](https://github.com/colinHarrell)
-- **LinkedIn:** [linkedin.com/in/colinharrell](https://www.linkedin.com/in/colinharrell)
-- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)
+
+- **LinkedIn:** https://www.linkedin.com/in/colin-harrell-22999b31b/
+- **Email:** colin2271@gmail.com
+- Discord: colin.x1
 
 Thanks for visiting! Feel free to explore my projects and reach out if you have questions or collaboration ideas.
 
