@@ -3,7 +3,7 @@
 ## 🎯 About Me
 - 🎓 **Education:**
   - Bachelor's Degree in Computer Science (Minor in Mathematics)
-  - Associate's Degree in Liberal Arts
+  - Associate's Degree in Liberal Arts (Major in Computer Science)
 - 💻 **Technical Skills:**
   - Programming Languages: Java, C, C++, Ruby, Python, SQL
   - Web Development: HTML, CSS, JavaScript, Django
